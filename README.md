@@ -2,7 +2,8 @@
 
 # Access Control System with Arduino
 
-![image](https://github.com/user-attachments/assets/4c14ae6b-1488-4718-8241-f0ec8790541f)
+![image](https://github.com/user-attachments/assets/9b0778a6-0125-4e75-be4c-e5da6f0ad448)
+
 
 
 This repository contains the source code and documentation for an Access Control System implemented using an Arduino microcontroller board, a fingerprint sensor, an LCD display, a keypad, and an RFID sensor. The system is designed to provide secure access to a physical space by verifying the identity of the object through various authentication methods.
